@@ -1,6 +1,5 @@
 // i am being lazy i just want to use the app
 // @ts-nocheck
-import './assets/main.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
